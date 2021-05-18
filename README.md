@@ -1,5 +1,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderefinery/word-count/HEAD)
-![DOI](https://sandbox.zenodo.org/badge/368438438.svg)
+
+
+
+[![DOI](https://sandbox.zenodo.org/badge/368438438.svg)](https://sandbox.zenodo.org/badge/latestdoi/368438438)
+
+
 
 # Word count example
 
